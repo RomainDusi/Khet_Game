@@ -2,15 +2,15 @@
 
 ## What is Khet Game ?
 
-It was a school project, we had to reprogram the Khet game and be able to :
+Khet Game was a school project in which we had to reprogram in its entirety and be able to :
 - Play all 3 starting configurations
-- Implement additionals addons like seeing possible destinations for the pieces
-- Create your own configuration and save it
+- Implement additionals addons such as seeing possible destinations for the pieces
+- Create your own configurations and save them
 
-For those who are not familiar with the Khet Game you can find an explanation here :  
+For those who are not familiar with the Khet Game, you can find an explanation here :  
 https://www.fgbradleys.com/rules/rules3/Khet2theLaserGameRules.pdf
 
-Please note that we changed pieces images, you can find them in the "images" folder.
+Please note that we changed the pieces' designs, you can find them in the "images" folder.
 
 It is currently in french but feel free to use it or modify it as you need =P
 
