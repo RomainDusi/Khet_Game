@@ -2,7 +2,7 @@
 
 ## What is Khet Game ?
 
-Khet Game was a school project in which we had to reprogram in its entirety and be able to :
+Khet Game was a school project in which we had to reprogram the game in its entirety and be able to :
 - Play all 3 starting configurations
 - Implement additionals addons such as seeing possible destinations for the pieces
 - Create your own configurations and save them
